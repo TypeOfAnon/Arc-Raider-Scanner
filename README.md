@@ -1,4 +1,4 @@
-<img width="548" height="852" alt="image" src="https://github.com/user-attachments/assets/cda146c0-e4c7-4209-83cc-230defca27ef" />🔍 Arc Raider Scanner (v0.1 BETA)
+🔍 Arc Raider Scanner (v0.1 BETA)
 An Open-Source Inventory Intelligence Tool for Arc Raiders
 
 💡 The Problem
