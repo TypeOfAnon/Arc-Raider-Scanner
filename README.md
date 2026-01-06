@@ -1,4 +1,4 @@
-🔍 Arc Raider Scanner (v0.1 BETA)
+<img width="548" height="852" alt="image" src="https://github.com/user-attachments/assets/cda146c0-e4c7-4209-83cc-230defca27ef" />🔍 Arc Raider Scanner (v0.1 BETA)
 An Open-Source Inventory Intelligence Tool for Arc Raiders
 
 💡 The Problem
@@ -38,7 +38,5 @@ OpenCV, NumPy, and Pillow libraries.
 👤 Author
 Developed by Santazer. This project is in BETA. Feedback and icon contributions are welcome!
 
-Pro-Tip for your GitHub:
-Since you mentioned it is Open Source, make sure to include a section on how other players can add their own icons to the icons/ folder. This will help your program grow as the game updates!
+<img width="548" height="852" alt="image" src="https://github.com/user-attachments/assets/95931391-cc2e-4a6f-9170-fd0aa58d1241" />
 
-Would you like me to add a "Future Roadmap" section to this introduction (e.g., adding item prices or auto-detection)?
